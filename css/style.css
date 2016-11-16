@@ -1,0 +1,9 @@
+img{ max-width: 100%; display: block; margin: auto; }
+
+h1{ text-align: center; }
+.boton{ display: block; margin: auto; text-align: center; }
+.visualizaimagen{ margin-top: 40px; }
+
+.donar{ text-align: center; }
+.donar form{ display: inline-block;  }
+.donar form select{ display: inline-block; }
