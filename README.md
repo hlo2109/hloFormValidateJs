@@ -17,3 +17,7 @@
           })
         })
       </script>
+
+## Ejemplo
+  
+  http://hloformvalidatejs.hlo21.com/
